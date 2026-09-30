@@ -1,2 +1,1 @@
-# byoa-golden-github-archived
-BYOA golden dataset fixture — archived
+# archived fixture (archived last)
